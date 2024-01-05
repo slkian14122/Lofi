@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Lofi/static/css/main.52b8cdce.css",
+    "main.js": "/Lofi/static/js/main.0f7f43df.js",
+    "index.html": "/Lofi/index.html",
+    "main.52b8cdce.css.map": "/Lofi/static/css/main.52b8cdce.css.map",
+    "main.0f7f43df.js.map": "/Lofi/static/js/main.0f7f43df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52b8cdce.css",
+    "static/js/main.0f7f43df.js"
+  ]
+}
